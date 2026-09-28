@@ -1,4 +1,4 @@
-import Boxs from "../pages/boxs";
+import Boxs from "../pages/Boxs";
 import Hero from "../Hero/Hero";
 import ArticleCard from "../ArticleCard/ArticleCard";
 import { articles } from "../data/articles";
