@@ -1,0 +1,32 @@
+.button{
+border-radius: 20px;
+background-color: #fa662c;
+color: aliceblue;
+transition: all 0.2s ease;
+}
+.button:hover{
+background-color: #fa662c;
+color: aliceblue;
+transform: translateY(-3px);
+}
+.bill{
+    border: #ff752036 1px solid;
+    border-radius: 20px;
+    
+}
+
+.navbar-nav .nav-link.active, .navbar-nav .nav-link.show {
+    color: var(--bs-navbar-active-color);
+    background-color: #fa662c;
+    border-radius: 20px;
+}
+
+small{
+    font-size: 0.8rem;
+    color:#fa662c;
+    margin: 0px;
+    padding: 0px;
+}
+.logo{
+    line-height: 0%;
+}
