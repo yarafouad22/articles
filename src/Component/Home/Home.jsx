@@ -1,7 +1,7 @@
-import Boxs from "../pages/Boxs";
-import Hero from "../Hero/Hero";
-import ArticleCard from "../ArticleCard/ArticleCard";
-import { articles } from "../data/articles";
+import Boxs from "../pages/Boxs.jsx";
+import Hero from "../Hero/Hero.jsx";
+import ArticleCard from "../ArticleCard/ArticleCard.jsx";
+import { articles } from "../data/articles.js";
 import { MdArticle, MdPeople, MdCategory, MdPerson } from "react-icons/md";
 import { NavLink } from "react-router-dom";
 
