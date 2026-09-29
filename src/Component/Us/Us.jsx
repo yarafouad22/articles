@@ -1,4 +1,4 @@
-import Boxs from "../pages/boxs";
+import Boxs from "../pages/Boxs";
 import Hero from "../Hero/Hero";
 import { MdPeople, MdArticle, MdCategory } from "react-icons/md";
 import { FaPenNib } from "react-icons/fa";
