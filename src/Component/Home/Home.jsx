@@ -92,7 +92,7 @@ export default function Home() {
           <div className="row mt-4">
             
             {articles.slice(0, 3).map((article) => (
-              <div className="col-12" key={article.id}>
+              <div className="col-12 mb-3" key={article.id}>
                 <ArticleCard article={article} />
               </div>
             ))}
